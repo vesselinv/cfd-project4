@@ -17,6 +17,7 @@ function App() {
         >
           Learn React
         </a>
+        <p>Brought to you by Vincent Cole.</p>
       </header>
     </div>
   );
